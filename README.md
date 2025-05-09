@@ -1,5 +1,6 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:08/05/2025
+## Name:JEYAPRIYA.J Reg no:212224100027
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
